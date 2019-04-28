@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "therohitrahul.github.io/deployedwebsite/static/css/main.e0e70ba6.chunk.css",
-    "main.js": "therohitrahul.github.io/deployedwebsite/static/js/main.4304a6eb.chunk.js",
-    "main.js.map": "therohitrahul.github.io/deployedwebsite/static/js/main.4304a6eb.chunk.js.map",
-    "runtime~main.js": "therohitrahul.github.io/deployedwebsite/static/js/runtime~main.11455b00.js",
-    "runtime~main.js.map": "therohitrahul.github.io/deployedwebsite/static/js/runtime~main.11455b00.js.map",
-    "static/js/2.c4a3a808.chunk.js": "therohitrahul.github.io/deployedwebsite/static/js/2.c4a3a808.chunk.js",
-    "static/js/2.c4a3a808.chunk.js.map": "therohitrahul.github.io/deployedwebsite/static/js/2.c4a3a808.chunk.js.map",
-    "index.html": "therohitrahul.github.io/deployedwebsite/index.html",
-    "precache-manifest.2c2da715c845134d4d71d8f99fc83044.js": "therohitrahul.github.io/deployedwebsite/precache-manifest.2c2da715c845134d4d71d8f99fc83044.js",
-    "service-worker.js": "therohitrahul.github.io/deployedwebsite/service-worker.js",
-    "static/css/main.e0e70ba6.chunk.css.map": "therohitrahul.github.io/deployedwebsite/static/css/main.e0e70ba6.chunk.css.map"
+    "main.css": "/deployedwebsite/static/css/main.e0e70ba6.chunk.css",
+    "main.js": "/deployedwebsite/static/js/main.47b7499c.chunk.js",
+    "main.js.map": "/deployedwebsite/static/js/main.47b7499c.chunk.js.map",
+    "runtime~main.js": "/deployedwebsite/static/js/runtime~main.97724fa5.js",
+    "runtime~main.js.map": "/deployedwebsite/static/js/runtime~main.97724fa5.js.map",
+    "static/js/2.c4a3a808.chunk.js": "/deployedwebsite/static/js/2.c4a3a808.chunk.js",
+    "static/js/2.c4a3a808.chunk.js.map": "/deployedwebsite/static/js/2.c4a3a808.chunk.js.map",
+    "index.html": "/deployedwebsite/index.html",
+    "precache-manifest.6d9fbecc189777d2e799b1107ef08533.js": "/deployedwebsite/precache-manifest.6d9fbecc189777d2e799b1107ef08533.js",
+    "service-worker.js": "/deployedwebsite/service-worker.js",
+    "static/css/main.e0e70ba6.chunk.css.map": "/deployedwebsite/static/css/main.e0e70ba6.chunk.css.map"
   }
 }
